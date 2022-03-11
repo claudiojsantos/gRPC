@@ -8,7 +8,7 @@
 
 ## Descrição do Projeto
 
-<p align="justify">Este projeto tem a finalidade de demonstrar a comunicação utilizando o framework gRPC através de um Client e seu Server, utilizando as seguintes formas de comunicação: <b>Unary</b>, <b>Server Streaming</b>, <b>Client Streaming</b>.</p>
+<p align="justify">Este projeto tem a finalidade de demonstrar a comunicação utilizando o framework gRPC através de um Client e seu Server, utilizando as seguintes formas de comunicação: <b>Unary</b>, <b>Server Streaming</b>, <b>Client Streaming</b> e <b>Streaming Bi-Direcional</b>.</p>
 
 ### Tecnologias
 
