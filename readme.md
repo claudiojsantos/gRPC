@@ -16,7 +16,7 @@
 - [Protocol Buffers](https://developers.google.com/protocol-buffers)
 - [GoLang](https://go.dev/)
 
-> Status do Projeto: Em desenvolvimento :warning:
+> Status do Projeto: Concluido :heavy_check_mark:
 
 ### Instalação
 
